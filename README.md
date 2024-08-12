@@ -24,3 +24,5 @@ I am a research software engineer with a background in astrophysics, machine lea
   - Django
   - CUDA
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlyttle&hide=jupyter%20notebook,purebasic&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
