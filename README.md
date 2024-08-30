@@ -25,4 +25,7 @@ I am a research software engineer with a background in astrophysics, machine lea
   - CUDA
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlyttle&hide=jupyter%20notebook,purebasic&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlyttle&hide=tex,jupyter%20notebook,purebasic&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)[^1][^2]
+
+[^1]: Excluding TeX, Jupyter Notebook, and PureBasic
+[^2]: Calulated by the [language stats algorithm](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#language-stats-algorithm) with equal weight to bytes and repo count
